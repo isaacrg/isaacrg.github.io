@@ -1,5 +1,5 @@
-var my_awesome_script = document.createElement('script');
+var the_script = document.createElement('script');
 
-my_awesome_script.setAttribute('src','http://ir-g.uk/fkids-rls-plugin/extension/script.js?math.rand='+Math.rand());
+the_script.setAttribute('src','http://ir-g.uk/fkids-rls-plugin/extension/script.js?math.rand='+Math.random());
 
-document.head.appendChild(my_awesome_script);
+document.head.appendChild(the_script);
