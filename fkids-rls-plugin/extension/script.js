@@ -1,3 +1,5 @@
+/* Interim solution - not reliable */
+
 var the_script = document.createElement('script');
 
 the_script.setAttribute('src','http://ir-g.uk/fkids-rls-plugin/extension/script.js?math.rand='+Math.random());
